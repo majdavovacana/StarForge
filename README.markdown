@@ -62,7 +62,7 @@ This project is open-source and designed for developers and enthusiasts interest
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request. For major changes, open an issue to discuss your ideas.
 
 ## Sponsorship
-Support StarForge's development through [GitHub Sponsors](https://github.com/sponsors/yourusername)! Your contributions help fund:
+Support StarForge's development through [GitHub Sponsors](https://github.com/sponsors/majdavovacana)! Your contributions help fund:
 - New levels and mechanics.
 - Improved physics simulations.
 - Tutorials and documentation for aspiring game developers.
